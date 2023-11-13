@@ -11,7 +11,7 @@
 
 
 <h2>상단메뉴</h2>
-<img src="img/pp_hanatour2.jpg" alt="">
+<img src="img/pp_nescafe2.jpg" alt="">
 
 <h2>배너 동영상</h2>
 <img src="img/pp_nescafe3.jpg" alt="">
